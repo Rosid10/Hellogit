@@ -1,0 +1,3 @@
+
+kuota = 10 ribu
+kuota = 20 ribu
